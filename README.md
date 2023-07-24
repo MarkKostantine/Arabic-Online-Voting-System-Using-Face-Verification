@@ -1,0 +1,2 @@
+# Arabic-Online-Voting-System-Using-Face-Verification
+This was my Graduation Project ( A+ Grade ) , Its main idea was to vote easily in elections from home instead of going to geographical places . This Project was based on Web application . Front End Was HTML , CSS and Back End was Django which has a deployed ML Module for detect faces and compare it to ID image to verify that the voter wasn't fake.
